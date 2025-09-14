@@ -1,0 +1,30 @@
+A company works with number of employees, all the works are dependents on the employees. Even 
+if one of the employees resign the job immediately then assigned work will be not finished at the 
+time, so delivery of the project to the clients will be delayed. Company planned to make solution for 
+this, they wasnt to know which employee may resign next. If they know previously, they can arrange 
+alternative to avoid such problem. As an AI Engineer you must give Solution to this. 
+A) How will you achieve this in AI? 
+B) Find out the 3 -Stage of Problem Identification 
+C) Name the project 
+D) Create the dummy Dataset.
+
+prediction is to hire or not hire
+
+Stage1 :- machine learning
+Stage2 :- Supervise
+Stage3 :- classification
+
+EMPLOYEE NAME :-
+CONTRACT STRARTING DATE :-
+CONTRACT ENDING DATE :-
+VACATION STRATING DATE :-
+VACATION RETURNING DATE :-
+WORK OFF DATE :-
+RETIREMENT AGE :-
+
+
+
+1.Before reaching contract end month he should accept to continue then start hire new employee
+2.After a vacation he did not return then strart hire new employee
+3.With in a month more work off because of health issue then start hire new employe
+4.He reached retirement age then start hire
